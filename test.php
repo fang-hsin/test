@@ -1,18 +1,12 @@
-<!DOCTYPE html>
+<?php
+ ·s¼W§R°£
+?>
 <html>
 <head>
-  <meta charset="UTF-8">
-  <title>ä½¿ç”¨è€…ç™»å…¥</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>¾Ç¥Í¸ê®Æ­×§ï¨t²Î</title>
 </head>
 <body>
-  <p></p>
-  <hr>
-  <form action="" method="post">
-      å¸³è™Ÿï¼š<input type="text" name="usrName" 
-	               value="LKK" required><br>
-      å¯†ç¢¼ï¼š<input type="password" name="usrPass" 
-	               value="lkk" required>
-    <input type="submit" value="é€å‡º">
-  </form>
+
 </body>
 </html>
